@@ -1,14 +1,13 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: siano-mdtv-dkms
-Source: <url://example.com>
+Upstream-Name: rtl-8723-dkms
+Source: https://github.com/ftoledo/rtl-8723-dkms
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
-License: GPL-2.0+
+Copyright: Copyright (c) 2009, Realtek Semiconductor Corporation
+License: non-free
 
 Files: debian/*
-Copyright: 2013 Miguel Angel Garcia <miguel.garcia@gmail.com>
+Copyright: 2014 Fernando Toledo <ragnarok@docksud.com.ar>
 License: GPL-2.0+
 
 License: GPL-2.0+
@@ -28,7 +27,3 @@ License: GPL-2.0+
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid to pick license terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.

@@ -3,7 +3,7 @@ Section: non-free/kernel
 Priority: optional
 Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
 Build-Depends: debhelper (>= 8.0.0), dkms
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
 
 Package: rtl-8723-dkms
 Architecture: all
