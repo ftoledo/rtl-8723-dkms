@@ -1,0 +1,3 @@
+firmware/rtlwifi/rtl8723befw.bin lib/firmware/rtlwifi/
+firmware/rtlwifi/rtl8723fw.bin lib/firmware/rtlwifi/
+firmware/rtlwifi/rtl8723fw_B.bin lib/firmware/rtlwifi/
