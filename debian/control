@@ -15,6 +15,16 @@ Description: Realtek 8723 kernel module
 Package: rtl-8723-firmware
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: rtl-8723-firmware-jessie
 Recommends: firmware-realtek
 Description: Realtek 8723 firmware files (non-free)
  This package have the non-free firmware for the Realtek 8723 wireless adapter.
+
+Package: rtl-8723-firmware-jessie
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: rtl-8723-firmware
+Recommends: firmware-realtek
+Description: Realtek 8723 firmware files (non-free)
+ This package have the non-free firmware for the Realtek 8723 wireless adapter
+ for Debian Jessie distribution. Use it instead of rtl-8723-firmware

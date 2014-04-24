@@ -1,3 +1,9 @@
+rtl-8723-dkms (1.1) unstable; urgency=medium
+
+  * Paquetes con firmware para jessie
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 24 Apr 2014 14:57:59 -0300
+
 rtl-8723-dkms (1.0) unstable; urgency=low
 
   * Initial Release.
